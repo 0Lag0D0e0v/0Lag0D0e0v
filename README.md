@@ -53,15 +53,19 @@ Busco aprimorar continuamente minhas habilidades técnicas e construir soluçõe
 
 ## 🕹️ Hobbies
 
+● Estar com a família e poder dividir nossas experiências do dia a dia.
+
 ● Leitura de livros de diversos assuntos.
 
 ● Programação de códigos e resolução de problemas.
 
 ● Paixão por jogos online e de versões Mobile.
 
-● Cozinhar e aprender receitas novas.
+● Apaixonado por cultura geek e cultura pop.
 
-● Praticar Corrida de rua.
+● Cozinhar, comer bem  e aprender receitas novas.
+
+● Praticar atividades físicas como corrida de rua.
 
 ● Viajar e conhecer lugares novos.
 
