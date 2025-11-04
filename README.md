@@ -8,7 +8,7 @@ desenvolvimento de sites com ferramentas de apoio como Figma e programação de 
  Através desse curso, estamos desenvolvendo habilidades técnicas e específicas voltadas para organização de texto, parte visual relacionado
 ao posicionamento de formas e estudo das cores que são usadas em projetos no decorrer do curso.
 
-AQUI em meu repositório todos poderão conhecer meus projetos e trabalhos voltados para o nosso desenvolvimento e assim acompanhar minha caminhada 
+AQUI em meu repositório todos poderão conhecer meus projetos e trabalhos voltados para o meu desenvolvimento, e assim acompanhar minha caminhada 
 na área de T.I, voltado para o FRONT-END e BACK-END com foco em criação de sites, aplicativos e softwares.
 
 ## 💻 Ferramentas de criação e apoio
