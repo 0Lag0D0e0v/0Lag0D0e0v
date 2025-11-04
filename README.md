@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sejam Bem vindos ao meu portfólio profissional
 
-<!--
-**0Lag0D0e0v/0Lag0D0e0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
+Estou atualmente cursando o curso de Técnico de Informática para Internet onde estou aprendendo sobre design gráfico, 
+desenvolvimento de sites com ferramentas de apoio como Figma e programação de códigos com VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Através desse curso, estamos desenvolvendo habilidades técnicas e específicas voltadas para organização de texto, parte visual relacionado
+ao posicionamento de formas e estudo das cores que são usadas em projetos no decorrer do curso.
+
+AQUI em meu repositório todos poderão conhecer meus projetos e trabalhos voltados para o nosso desenvolvimento e assim acompanhar minha caminhada 
+na área de T.I, voltado para a parte de FRONT-END. 
+
+📘 A escola SENAC é uma excelente instituição de ensino de qualidade voltada para inclusão social, e com diferenciais que outras escolas ainda não tem,
+porque é uma escola que desenvolve no aluno todo o conceito de estudar dentro de um ambiente pensado na realidade do mercado de trabalho.
+
+
