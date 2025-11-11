@@ -2,13 +2,13 @@
 
 ## Olá pessoal 👋
 
-Atualmente cursando o curso Técnico de Informática para Internet, onde estou aprendendo sobre design gráfico, 
+Atualmente cursando Técnico de Informática para Internet, onde estou aprendendo sobre design gráfico, 
 desenvolvimento de sites com ferramentas de apoio como Figma e programação de códigos com VS Code.
 
- Através desse curso, estamos desenvolvendo habilidades técnicas e específicas voltadas para organização de texto, parte visual relacionado
-ao posicionamento de formas e estudo das cores que são usadas em projetos no decorrer do curso.
+ Através do curso, estamos desenvolvendo habilidades técnicas e específicas voltadas para organização de texto, parte visual relacionado
+ao posicionamento de formas e estudo das cores que são usadas em nossos projetos.
 
-AQUI em meu repositório todos poderão conhecer meus projetos e trabalhos voltados para o meu desenvolvimento, e assim acompanhar minha caminhada 
+AQUI em meu repositório todos poderão conhecer meus projetos e estudos voltados para o meu aprendizado, e assim acompanhar minha caminhada 
 na área de T.I, voltado para o FRONT-END e BACK-END com foco em criação de sites, aplicativos e softwares.
 
 ## 💻 Ferramentas de criação e apoio
