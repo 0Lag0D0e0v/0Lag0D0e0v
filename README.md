@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-Estou atualmente cursando o curso de Técnico de Informática para Internet onde estou aprendendo sobre design gráfico, 
+Atualmente cursando o curso Técnico de Informática para Internet, onde estou aprendendo sobre design gráfico, 
 desenvolvimento de sites com ferramentas de apoio como Figma e programação de códigos com VS Code.
 
  Através desse curso, estamos desenvolvendo habilidades técnicas e específicas voltadas para organização de texto, parte visual relacionado
