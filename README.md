@@ -1,4 +1,4 @@
-# Sejam Bem vindos ao meu Cantinho do Programador 🤓
+# Sejam Bem vindos 🤓
 
 ## Olá pessoal 👋
 
