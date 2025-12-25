@@ -1,6 +1,6 @@
-# Sejam Bem vindos 🤓
+# Sejam Bem vindos
 
-## Olá pessoal 👋
+## Olá pessoal
 
 Atualmente cursando Técnico de Informática para Internet, onde estou aprendendo sobre design gráfico, 
 desenvolvimento de sites com ferramentas de apoio como Figma e programação de códigos com VS Code.
